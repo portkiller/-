@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "人数", "人数\人数.vbproj", "{13803263-FC1F-4ECF-8696-5ABAA812C45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Debug|x64.ActiveCfg = Debug|x64
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Debug|x64.Build.0 = Debug|x64
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Debug|x86.ActiveCfg = Debug|x86
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Debug|x86.Build.0 = Debug|x86
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Release|x64.ActiveCfg = Release|x64
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Release|x64.Build.0 = Release|x64
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Release|x86.ActiveCfg = Release|x86
+		{13803263-FC1F-4ECF-8696-5ABAA812C45F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80B38355-1E40-4F80-B12C-E9A8264E4BFD}
+	EndGlobalSection
+EndGlobal
